@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<script src="js/Cookie封装.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/jquery-1.8.3.min.js" type="text/javascript" charset="utf-8"></script>
+		<script type="text/javascript">
+			$(function  () {
+					var imgarr=getCookieWithKey('imgsz').split(',')
+					var spanarr=getCookieWithKey('spansz').split(',')
+					var barr=getCookieWithKey('bsz').split(',')
+					for (i=0;i<imgarr.length;i++) {
+						$('ul').append('<li><img src="'+imgarr[i]+'"/><span>"'+spanarr[i]+'"</span><b>"'+barr[i]+'"</b></li>')
+					}
+				
+				
+				
+			})
+		</script>
+	</head>
+	<body>
+		<h1>我的购物车</h1>
+		<ul>
+			
+		</ul>
+	</body>
+</html>

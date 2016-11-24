@@ -1,0 +1,51 @@
+[
+	{
+		"url" : "little1.jpg",
+		"txt" : "话费"
+	},
+	{
+		"url" : "little2.jpg",
+		"txt" : "机票"
+	},
+	{
+		"url" : "little3.jpg",
+		"txt" : "电影票"
+	},
+	{
+		"url" : "little4.jpg",
+		"txt" : "游戏"
+	},
+	{
+		"url" : "little5.jpg",
+		"txt" : "彩票"
+	},
+	{
+		"url" : "little6.jpg",
+		"txt" : "加油卡"
+	},
+	{
+		"url" : "little7.jpg",
+		"txt" : "酒店"
+	},
+	{
+		"url" : "little8.jpg",
+		"txt" : "火车票"
+	},
+	{
+		"url" : "little9.jpg",
+		"txt" : "众筹"
+	},
+	{
+		"url" : "little10.jpg",
+		"txt" : "理财"
+	},
+	{
+		"url" : "little11.jpg",
+		"txt" : "礼品卡"
+	},
+	{
+		"url" : "little12.jpg",
+		"txt" : "白条"
+	}
+	
+]

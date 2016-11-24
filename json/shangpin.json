@@ -1,0 +1,32 @@
+[
+	{
+		"url" : "good1.jpg",
+		"txt" : "三星(SAMSUNG) 850 EVO 120G SATA3 固态",
+		"price" : "¥419.00"
+	},
+	{
+		"url" : "good2.jpg",
+		"txt" : "南极人 nanjiren 牛仔裤 韩版弹力修身百搭铅笔",
+		"price" : "¥139.00"
+	},
+	{
+		"url" : "good3.jpg",
+		"txt" : "骆驼（CAMEL）女鞋 2016秋季新款 舒适时尚",
+		"price" : "¥211.00"
+	},
+	{
+		"url" : "good4.jpg",
+		"txt" : "【京东超市】楼兰蜜语 新疆大枣 一等五星和田",
+		"price" : "¥25.90"
+	},
+	{
+		"url" : "good5.jpg",
+		"txt" : "罗技(Logitech)M185 无线鼠标 黑色红边",
+		"price" : "¥59.00"
+	},
+	{
+		"url" : "good6.jpg",
+		"txt" : "【京东超市】花王（Merries）婴儿纸尿裤 ",
+		"price" : "¥99.00"
+	}
+]
